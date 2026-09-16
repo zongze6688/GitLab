@@ -65,4 +65,6 @@ git merge feature会遇到冲突，在vscode中查看：
 
 ## 五、提交报告
 
-由于一直使用markdown边写边做，所以刚刚在merge过程中不小心提交了未完成的report，此处暂且按下不表
+由于一直使用markdown边写边做，所以刚刚在merge过程中不小心提交了未完成的report，此处暂且按下不表。
+
+最后git push origin --all 将完整的提交历史推送到远程
